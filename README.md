@@ -29,7 +29,7 @@ Welcome to my Github page!
 
 <h2> 💻 Class Repositories </h2>
 
-<a https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-1-SEMESTRE">
+<a href="https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-1-SEMESTRE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianaMaria-Lab&repo=Aprendizagem-por-Projetos-Integrados-1-SEMESTRE&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/JulianaMaria-Lab/convoychat">
