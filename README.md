@@ -32,7 +32,7 @@ Welcome to my Github page!
 <a href="https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-1-SEMESTRE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianaMaria-Lab&repo=Aprendizagem-por-Projetos-Integrados-1-SEMESTRE&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/JulianaMaria-Lab/convoychat">
+<a href="https://github.com/JulianaMaria-Lab/Algoritmos-e-Logica-de-Programacao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianaMaria-Lab&repo=Algoritmos-e-Logica-de-Programacao&theme=chartreuse-dark" />
 </a>
 
