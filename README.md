@@ -2,11 +2,11 @@
 
 Welcome to my Github page! 
 
-🔸 Juliana, Ju or Scarlet 🔸
+🔸 Juliana 🔸
 
 🖥️ Student of Systems Analysis and Development.  🇧🇷
 
-- 🌱 I'm currently learning HTML, CSS, (the basic) of PHP.
+- 🌱 I'm currently learning HTML, CSS, PHP, Javascript.
 - 🐾 In love with cats.
 - 🎮 ScarletMagx in games
 - 👩🏻‍🔬 From the world of chemistry to IT
