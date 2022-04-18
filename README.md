@@ -34,13 +34,6 @@ Welcome to my Github page!
 
 <br>
 <br>
-<br>
-<br>
-
-
-![JulianaMaria-Lab GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianaMaria-Lab&theme=chartreuse-dark&show_icons=true)
-
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMaria-Lab&layout=compact&theme=chartreuse-dark)](https://github.com/JulianaMaria-Lab/github-readme-stats)
 
