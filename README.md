@@ -37,8 +37,8 @@
 |-----------------------------------------------------------------------------------------------------|
 | [1st Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-1-SEMESTRE) |
 | [2nd Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-2-SEMESTRE) |
-<!--| [3rd Semester]()                                                                                    |
-| [4th Semester]()                                                                                    |
+| [3rd Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-3-SEMESTRE) |
+<!--| [4th Semester]()                                                                                    |
 | [5th Semester]()                                                                                    |
 | [6th Semester]()                                                                                    |-->
 
