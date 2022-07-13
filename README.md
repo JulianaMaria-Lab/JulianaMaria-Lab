@@ -1,15 +1,25 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my Github page! 
 
-Welcome to my Github page! 
+<div style="display: inline_block">
+<img align="right" src="https://user-images.githubusercontent.com/79669245/178828986-7ff052be-4131-40da-8a18-595e29555bb8.jpeg" height="180">
+<div>
+    
+<h3 align="left"> "Just freak out, let it go" 🌈 </h3>
+<p align="left"><h4>
+📚 Student of Systems Analysis and Development.  🇧🇷 <br><br>
+🌱 I'm currently learning HTML, CSS, Java, Javascript, Python. <br><br>
 
-🔸 Juliana 🔸
+<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178830398-4ffe71eb-1119-4ca0-b3bb-435817512843.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178830275-454697d8-a053-4c8f-8819-44ff2894d894.jpg"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178830786-a9d256d2-e67a-4ef5-8ca4-2b5df2c5cd45.jpg"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178831011-379bbd50-755c-4acd-8c7c-9ab800c0f3bf.jpg"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178831144-c76e98db-98fb-47b2-b74b-af0a2bfe0b2f.png"></code>
 
-🖥️ Student of Systems Analysis and Development.  🇧🇷
+</left> 
+</div>
 
-- 🌱 I'm currently learning HTML, CSS, PHP, Java,Javascript.
+<h2>👥 Connect with me:</h2>
 
-
-👥 **Connect with me:**
 <p align="left">
 <a href="https://www.instagram.com/julianna_shiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/ScarletMagx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -21,22 +31,26 @@ Welcome to my Github page!
 <!-- https://www.tinkercad.com/users/kW3k1L7cyHM-juliana-maria-ribeiro-ramos-->
 </p>
 
+<h2> 👨🏽‍💻 Projects </h2>
+
+| Class Projects                                                                                            |
+|-----------------------------------------------------------------------------------------------------|
+| [1st Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-1-SEMESTRE) |
+| [2nd Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-2-SEMESTRE) |
+<!--| [3rd Semester]()                                                                                    |
+| [4th Semester]()                                                                                    |
+| [5th Semester]()                                                                                    |
+| [6th Semester]()                                                                                    |-->
 
 
-<h2> 💻 Class Repositories </h2>
-
-<a href="https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-1-SEMESTRE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianaMaria-Lab&repo=Aprendizagem-por-Projetos-Integrados-1-SEMESTRE&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-2-SEMESTRE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianaMaria-Lab&repo=Aprendizagem-por-Projetos-Integrados-2-SEMESTRE&theme=chartreuse-dark" />
-</a>
-
-<br>
-<br>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMaria-Lab&layout=compact&theme=chartreuse-dark)](https://github.com/JulianaMaria-Lab/github-readme-stats)
 
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=JulianaMaria-Lab&layout=compact&theme=chartreuse-dark" alt="Juliana's GitHub Stats">
 
-
+<br>
+<img src="https://komarev.com/ghpvc/?username=JulianaMaria-LabD&color=green">
+<br> -->
 
