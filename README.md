@@ -9,11 +9,11 @@
 📚 Student of Systems Analysis and Development.  🇧🇷 <br><br>
 🌱 I'm currently learning HTML, CSS, Java, Javascript, Python. <br><br>
 
-<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178830398-4ffe71eb-1119-4ca0-b3bb-435817512843.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178830275-454697d8-a053-4c8f-8819-44ff2894d894.jpg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178830786-a9d256d2-e67a-4ef5-8ca4-2b5df2c5cd45.jpg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178831011-379bbd50-755c-4acd-8c7c-9ab800c0f3bf.jpg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/79669245/178831144-c76e98db-98fb-47b2-b74b-af0a2bfe0b2f.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830398-4ffe71eb-1119-4ca0-b3bb-435817512843.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830275-454697d8-a053-4c8f-8819-44ff2894d894.jpg"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830786-a9d256d2-e67a-4ef5-8ca4-2b5df2c5cd45.jpg"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178831011-379bbd50-755c-4acd-8c7c-9ab800c0f3bf.jpg"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178831144-c76e98db-98fb-47b2-b74b-af0a2bfe0b2f.png"></code>
 
 </left> 
 </div>
