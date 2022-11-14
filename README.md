@@ -7,7 +7,7 @@
 <h3 align="left"> "Just freak out, let it go" 🌈 </h3>
 <p align="left"><h4>
 📚 Student of Systems Analysis and Development.  🇧🇷 <br><br>
-🌱 I'm currently learning HTML, CSS, Java, Javascript, Python. <br><br>
+🌱 I'm currently learning  Javascript <br><br>
 
 <code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830398-4ffe71eb-1119-4ca0-b3bb-435817512843.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830275-454697d8-a053-4c8f-8819-44ff2894d894.jpg"></code>
