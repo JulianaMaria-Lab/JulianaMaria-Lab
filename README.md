@@ -7,7 +7,8 @@
 <h3 align="left"> "Just freak out, let it go" 🌈 </h3>
 <p align="left"><h4>
 📚 Student of Systems Analysis and Development.  🇧🇷 <br><br>
-🌱 I'm currently learning  Javascript <br><br>
+
+🌱 I'm currently learning React <br><br>
 
 <code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830398-4ffe71eb-1119-4ca0-b3bb-435817512843.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830275-454697d8-a053-4c8f-8819-44ff2894d894.jpg"></code>
@@ -28,20 +29,19 @@
 <a href="https://www.linkedin.com/in/juliana-maria-a0b0a0124/"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="mailto:julianamaria.rib@gmail.com"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 
-<!-- https://www.tinkercad.com/users/kW3k1L7cyHM-juliana-maria-ribeiro-ramos-->
 </p>
 
 <h2> 👨🏽‍💻 Projects </h2>
 
-| Class Projects                                                                                            |
-|-----------------------------------------------------------------------------------------------------|
+| Class Projects                                                                                      |
+|:-----------------------------------------------------------------------------------------------------:|
 | [1st Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-1-SEMESTRE) |
 | [2nd Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-2-SEMESTRE) |
 | [3rd Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-3-SEMESTRE) |
-<!--| [4th Semester]()                                                                                    |
-| [5th Semester]()                                                                                    |
+| [4th Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-4-SEMESTRE) |
+<!--| [5th Semester]()                                                                                    |
 | [6th Semester]()                                                                                    |-->
-
+ 
 
 <hr>
 
