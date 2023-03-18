@@ -8,13 +8,41 @@
 <p align="left"><h4>
 📚 Student of Systems Analysis and Development.  🇧🇷 <br><br>
 
-🌱 I'm currently learning React <br><br>
+🌱 I'm currently learning React Native<br><br>
 
-<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830398-4ffe71eb-1119-4ca0-b3bb-435817512843.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830275-454697d8-a053-4c8f-8819-44ff2894d894.jpg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178830786-a9d256d2-e67a-4ef5-8ca4-2b5df2c5cd45.jpg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178831011-379bbd50-755c-4acd-8c7c-9ab800c0f3bf.jpg"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/79669245/178831144-c76e98db-98fb-47b2-b74b-af0a2bfe0b2f.png"></code>
+<p align="center">
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt= "React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt= "Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt= "PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+
+
+
+  </p>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 </left> 
 </div>
@@ -22,7 +50,10 @@
 <h2>👥 Connect with me:</h2>
 
 <p align="left">
-<a href="https://www.instagram.com/julianna_shiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+
+<a href="https://www.instagram.com/julianna_shiro/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/ScarletMagx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/juliana.maria.96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://open.spotify.com/user/julianamaria.rib?si=DPgC6bdrQy-QJDLqDhnueg&utm_source=whatsapp&dl_branch=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
