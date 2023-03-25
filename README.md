@@ -1,15 +1,15 @@
-# Hi I'm Juliana Maria 👋
+# Hi! I'm Juliana Maria 👋
 
 <div style="display: inline_block">
-<img align="right" src="https://user-images.githubusercontent.com/79669245/178828986-7ff052be-4131-40da-8a18-595e29555bb8.jpeg" height="180">
+<img align="right" src="https://user-images.githubusercontent.com/79669245/227697051-4a433c48-37a3-4dff-900c-9025228a8001.png" height="180">
 <div>
-    
+
 <p align="left"><h4>
 📚 Student of Systems Analysis and Development.  🇧🇷 <br><br>
 
 🌱 I'm currently learning React Native<br><br>
 
-<p align="center">
+<p align="left">
     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,8 +26,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt= "PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!-- <img alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
     
   </p>
 
