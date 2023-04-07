@@ -1,15 +1,10 @@
-# Hi! I'm Juliana Maria 👋
+<h1 > Hi! I'm Juliana Maria 👋 </h1>
 
-<div style="display: inline_block">
-<img align="right" src="https://user-images.githubusercontent.com/79669245/227697051-4a433c48-37a3-4dff-900c-9025228a8001.png" height="180">
-<div>
-
-<p align="left"><h4>
+<p ><h4>
 📚 Student of Systems Analysis and Development.  🇧🇷 <br><br>
 
-🌱 I'm currently learning React Native<br><br>
-
-<p align="left">
+<p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,29 +15,31 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt= "React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt= "Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt= "PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <!-- <img alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-    
   </p>
 
-</left> 
-</div>
+🌱 I'm currently learning React Native<br><br>
 
-<h2>👥 Connect with me:</h2>
+<p align="center">
+   <img alt="React-Native" height="55" width="48" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" />
+</p>
 
-<p align="left">
+
+<h2> 📫 How to reach me </h2>
+
+
+<p align="center">
 <a href="https://www.linkedin.com/in/juliana-maria-a0b0a0124/"  target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> &nbsp;&nbsp;
 <a href="mailto:julianamaria.rib@gmail.com"  target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/julianna_shiro/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </p>
 
 <h2> 👨🏽‍💻 Projects </h2>
+
+<div align="center">
 
 | Class Projects                                                                                      |
 |:-----------------------------------------------------------------------------------------------------:|
@@ -53,10 +50,15 @@
 <!--| [5th Semester]()                                                                                    |
 | [6th Semester]()                                                                                    |-->
  
+ </div>
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMaria-Lab&layout=compact&theme=chartreuse-dark)](https://github.com/JulianaMaria-Lab/github-readme-stats)
+<div align="center">
+
+![JulianaMaria-Lab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMaria-Lab&layout=compact&theme=radical&langs_count=6&title_color=F2D852&text_color=ffffff&bg_color=0D1117&hide_border=true)
+
+
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=JulianaMaria-Lab&layout=compact&theme=chartreuse-dark" alt="Juliana's GitHub Stats">
@@ -64,4 +66,10 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=JulianaMaria-LabD&color=green">
 <br> -->
+</p>
 
+
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FJulianaMaria-Lab.JulianaMaria-Lab%2Freadme) 🙋‍
+
+
+</div>
