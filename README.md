@@ -68,8 +68,6 @@
 <br> -->
 </p>
 
-
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FJulianaMaria-Lab.JulianaMaria-Lab%2Freadme) 🙋‍
-
+ 🙋‍
 
 </div>
