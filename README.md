@@ -47,8 +47,8 @@
 | [2nd Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-2-SEMESTRE) |
 | [3rd Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-3-SEMESTRE) |
 | [4th Semester](https://github.com/JulianaMaria-Lab/Aprendizagem-por-Projetos-Integrados-4-SEMESTRE) |
-<!--| [5th Semester]()                                                                                    |
-| [6th Semester]()                                                                                    |-->
+| [5th Semester](https://github.com/JulianaMaria-Lab/API-Fatec-App-Atendimento-ao-Cliente)                                                                                    |
+<!--| [6th Semester]()                                                                                    |-->
  
  </div>
 
