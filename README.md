@@ -45,8 +45,10 @@
 
 <div align="center">
 
-|  <h3>Class Projects </h3>   | <h3> 📔 [Portfolio](https://github.com/JulianaMaria-Lab/portfolio-TG/tree/main) </h3> |
+|  <h3> Class Projects </h3>   | <h3> 📔 [Portfolio](https://github.com/JulianaMaria-Lab/portfolio-TG/tree/main) </h3> |
 | ------------- | ------------- |
+|  <h3> URL  Shortener </h3>  | <h3> ✂️ [Url-cut](https://github.com/JulianaMaria-Lab/url-cut) </h3> |
+
 
 <!--
 | Class Projects                                                                                      |
